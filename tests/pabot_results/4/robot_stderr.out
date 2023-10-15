@@ -1,0 +1,2 @@
+C:\Python3104\lib\site-packages\robot\utils\argumentparser.py:80: UserWarning: ArgumentParser option 'auto_pythonpath' is deprecated since Robot Framework 5.0.
+  warnings.warn("ArgumentParser option 'auto_pythonpath' is deprecated "
